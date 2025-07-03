@@ -1,2 +1,2 @@
 # HospitalManagementSystem
-This project developed using Spring boot, MySQL and Angular
+This project is developed using Spring boot, MySQL and Angular
